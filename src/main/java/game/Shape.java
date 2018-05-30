@@ -1,4 +1,4 @@
-package graphics.java2d.tetris;
+package game;
 
 import java.util.Random;
 
